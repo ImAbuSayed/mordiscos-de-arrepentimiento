@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-de-arrepentimiento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Mordiscos de arrepentimiento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-arrepentimiento/) |
+| **Get License** | [Request Licensing for Mordiscos de arrepentimiento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-arrepentimiento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mordiscos de arrepentimiento, tus labios saben a tormento
+> Bailando entre luces de neón, perdemos la orientación
+> Mordiscos de arrepentimiento, otra noche sin aliento
+> Tu piel grabada en mi memoria, este amor es pura gloria
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
