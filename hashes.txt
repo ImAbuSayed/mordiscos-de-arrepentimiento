@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mordiscos de arrepentimiento
+
+This log tracks the cryptographic history and versioning for the song **Mordiscos de arrepentimiento** (mordiscos-de-arrepentimiento).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:14:00.811243 | `v1` | `5ac008bf8b431625341bc4d8a21929ee4108ee64be24847f7be2a4f82a84abe5` | `a14dd9820e2ba290311a7616137b1dd7bbf8fa1765d899701b5fcb1f2a038708` | `2026-06-20_mordiscos-de-arrepentimiento-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
